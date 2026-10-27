@@ -7,7 +7,7 @@ export const profile = {
   email: "truptimayee4166@gmail.com",
   linkedin: "https://linkedin.com/in/trupti-dash9/",
   github: "https://github.com/TruptiMayee-Dash",
-  resume: "/resume/Truptimayee_Dash_Resume-Sep.pdf",
+  resume: "/resume/Truptimayee_Dash_Resume.pdf",
   summary:
     "MCA graduate and Software Engineer with approximately one year of professional experience building and maintaining real-world web applications. Strong foundation in Core Java, OOP, SQL and modern frontend development, with hands-on experience in Angular, JavaScript, HTML, CSS, PHP and responsive UI.",
 };
